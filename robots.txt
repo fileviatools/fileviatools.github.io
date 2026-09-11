@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fileviatools.github.io/sitemap.xml
